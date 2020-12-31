@@ -113,7 +113,10 @@ ul {
         flex-direction: column;
         justify-content: center;
         .span {
-          overflow-x: hidden;
+          width: 180px;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          overflow: hidden;
           margin: 2px 10px;
           font-size: 12px;
           opacity: 0.5;
