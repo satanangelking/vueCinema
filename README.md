@@ -1,6 +1,6 @@
 # myapp
 ```
-手机端
+手机端only
 ```
 ## Project setup
 ```
